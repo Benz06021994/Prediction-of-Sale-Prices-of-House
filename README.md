@@ -17,6 +17,7 @@ The primary objective of this project is to develop a robust and accurate machin
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Data Description](#data-description)
 - [Data Preprocessing](#data-preprocessing)
 - [Feature Selection](#feature-selection)
 - [Model Training and Evaluation](#model-training-and-evaluation)
@@ -24,10 +25,8 @@ The primary objective of this project is to develop a robust and accurate machin
 - [Model Deployment](#model-deployment)
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Clone](#clone)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -36,8 +35,6 @@ The goal of this project is to build a machine learning model that can accuratel
 ## Data Description
 
 Here's a detailed description of the features used in your real estate price prediction project:
-
-### Data Description
 
 1. **Borough**:
    - **Description**: The borough where the property is located.
