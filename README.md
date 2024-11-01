@@ -23,6 +23,7 @@ The primary objective of this project is to develop a robust and accurate machin
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Hyperparameter Tuning](#hyperparameter-tuning)
 - [Model Deployment](#model-deployment)
+- [Pipeline Implementation](#pipeline-implementation)
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
 - [Clone](#clone)
@@ -130,13 +131,15 @@ The Random Forest Regressor emerged as the best performing model based on these 
 - **GridSearchCV**: Used for hyperparameter tuning of the Random Forest model.
 - **Best Parameters**: Identified and applied to improve model performance.
 
-- After Hyperparameter Tuning XGBoost Regressor found to be most suitable.
+- After Hyperparameter Tuning, Random Forest Regressor found to be most suitable model.
 
 ## Model Deployment
 
 - **Model Saving**: The best performing model was saved.
-- **Predictions**: Made predictions on unseen data and displayed the results.
 
+## Pipeline Implementation
+
+- **Predictions**: Made predictions on unseen data using pipeline and displayed the predictions
 
 ## Conclusion
 
